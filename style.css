@@ -1,0 +1,50 @@
+body {
+  background-image: url("desk.jpeg");
+  background-size: cover;
+  font-family: 'Arvo', serif;
+}
+
+header {
+  color: white;
+  text-align: center;
+  height: 150px;
+}
+
+h1 {
+  line-height: 60px;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+div {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 15px;
+}
+
+td {
+  font-size: 20px;
+}
+
+main {
+  background-image: url("paper.jpg");
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
+  padding: 50px;
+  font-size:
+}
+
+button {
+  border: 1px solid black;
+  margin: 5px;
+  background-color: white;
+  border-radius: 5px;
+  font-family: 'Arvo', serif;
+  font-size: 15px;
+}
+
+form {
+  font-family: 'Arvo', serif;
+}
